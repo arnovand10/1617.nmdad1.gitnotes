@@ -14,13 +14,16 @@ Belgische nationaliteit <br><br>
 
 In bezit van rijbewijs B en eigen wagen <br>
 
-----------
 
 >**Programmeer ervaringen**
 
 >- HTML <br>
-
 >- CSS
 >- Javascript
 >- PHP
 
+>**Talen kennis**
+
+>- Nederlands: moedertaal
+>- Engels
+>- Frans
