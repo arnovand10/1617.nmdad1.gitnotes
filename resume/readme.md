@@ -26,15 +26,3 @@ Belgische nationaliteit <br>
 >- Engels
 >- Frans
 
->**In bezit van rijbewijs B en eigen wagen**
-
-```flow
-st=>start: Start
-e=>end: Good company
-op=>operation: Hire employee
-cond=>condition: employee === me
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
