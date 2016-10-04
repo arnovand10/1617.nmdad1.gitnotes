@@ -16,12 +16,11 @@ In bezit van rijbewijs B en eigen wagen <br>
 
 ----------
 
->**Werk ervaring:**
+>**Programmeer ervaringen**
 
->- **Electricien**, Vertronics Gavere
->--
+>- HTML <br>
 
->-
-
->-
+>- CSS
+>- Javascript
+>- PHP
 
