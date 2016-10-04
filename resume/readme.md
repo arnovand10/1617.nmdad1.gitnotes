@@ -17,10 +17,8 @@ Belgische nationaliteit
 	*HTML5
 >- CSS
 	* SASS
-	>- SASS
 >- Javascript
 	* jQuery
-	>- jQuery
 >- PHP
 
 >**Talen kennis**
