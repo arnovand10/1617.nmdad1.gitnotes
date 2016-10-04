@@ -9,7 +9,19 @@ Broekstraat 5
 0479/65 32 97
 arno.vand10@student.arteveldehs.be
 
+Geboren: 18/06/1995 te Gent
+Belgische nationaliteit
+
+In bezit van rijbewijs B en eigen wagen
+
 ----------
 
->**Werk eraring:
+>**Werk ervaring:**
+
+>- **Electricien**, Vertronics Gavere
+>--
+
+>-
+
+>-
 
