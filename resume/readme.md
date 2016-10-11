@@ -39,6 +39,3 @@ Geslacht: Man
 >- Nederlands: moedertaal
 >- Engels: goed
 >- Frans: gematigd
-
->**Hobbies**
->- 
