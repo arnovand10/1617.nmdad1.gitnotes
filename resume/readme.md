@@ -13,7 +13,7 @@ Geboren: 18/06/1995 te Gent
 Nationaliteit: Belg
 Geslacht: Man
 
-![ArnoVDB]( =250x)
+![ArnoVDB]
 [ArnoVDB]:https://avatars1.githubusercontent.com/u/17384949?v=3&s=466 "Arno Van Den Bossche"
 
 
