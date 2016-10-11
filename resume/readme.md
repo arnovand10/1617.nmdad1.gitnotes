@@ -28,11 +28,11 @@ Geslacht: Man
 	>- PHP
 
 >2. Software
-	>- Adobe
-		*Photoshop
-		*Illustrator
-		*Premiere Pro
-		*After Effects
+	>- Adobe  
+		*Photoshop   
+		*Illustrator  
+		*Premiere Pro  
+		*After Effects  
 
 
 >**Talen kennis**
