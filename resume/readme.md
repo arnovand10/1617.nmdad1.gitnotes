@@ -18,7 +18,7 @@ Geslacht: Man
 
 >**Computerkennis**
 
-1. Programmeertalen
+>1. Programmeertalen
 	>- HTML
 		*HTML5
 	>- CSS
@@ -27,7 +27,7 @@ Geslacht: Man
 		* jQuery
 	>- PHP
 
-2. Software
+>2. Software
 	>- Adobe
 		*Photoshop
 		*Illustrator
