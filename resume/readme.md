@@ -10,19 +10,35 @@ Broekstraat 5
 arno.vand10@student.arteveldehs.be  
 
 Geboren: 18/06/1995 te Gent  
-Belgische nationaliteit  
+Nationaliteit: Belg
+Geslacht: Man
 
->**Programmeer ervaringen**
->- HTML <br>
-	*HTML5
->- CSS
-	* SASS
->- Javascript
-	* jQuery
->- PHP
+
+
+
+>**Computerkennis**
+
+1. Programmeertalen
+	>- HTML
+		*HTML5
+	>- CSS
+		* SASS
+	>- Javascript
+		* jQuery
+	>- PHP
+
+2. Software
+	>- Adobe
+		*Photoshop
+		*Illustrator
+		*Premiere Pro
+		*After Effects
+
 
 >**Talen kennis**
 >- Nederlands: moedertaal
->- Engels
->- Frans
+>- Engels: goed
+>- Frans: gematigd
 
+>**Hobbies**
+>- 
