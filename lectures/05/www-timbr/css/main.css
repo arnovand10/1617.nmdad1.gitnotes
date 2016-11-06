@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+}
+.legal{
+	color: green;
+}
+.ilegal{
+	color: red;
+}
+
+ul{
+	height: 100vh;
+	width: 49vw;
+	position: relative;
+	float: left;
+}
+
+
+ul>li{
+	width: 100%;
+}
+
