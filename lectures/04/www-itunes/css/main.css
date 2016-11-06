@@ -1,0 +1,88 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+	color: white;
+}
+body{
+	padding: 0;
+	margin: 0;
+	background: white;
+	background-image: url("https://static.pexels.com/photos/30222/pexels-photo-30222.jpg");
+	background-position: center;
+}
+
+ul{
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.tabel{
+	width: 100%;
+	height: auto;
+
+}
+
+.tabel>li{
+	padding: 0;
+	position: relative;
+	float: left;
+	width: 23%;
+	height: 300px;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,0.5);
+	margin: 1%;
+	text-align: center;
+}
+
+img{
+	margin-top: 10%;
+}
+
+.tabel>.album{
+	width: inherit;
+	margin: inherit;
+	position: initial;
+	float: none;
+	height: auto;
+	background: none;
+}
+.album>ul>li{
+	padding: 0;
+	position: initial;
+	display: inline-block;
+	text-align: left;
+}
+
+.album>ul{
+	width: 86%;
+	height: 20px;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,0.3);
+	margin: 1%;
+	text-align: center;
+}
+
+.price{
+	position: inherit;
+	margin-top: 10%;
+	color: white;
+	margin-left: 25%;
+	font-weight: 800;
+	padding: 2px;
+	background-color: rgba(50,50,50,0.8);
+	border-radius: 10px;
+	width: 50%;
+	height: auto;
+}
+
+.genre{
+	margin-top: 5%;
+	height: 50px;
+	font-weight: 600;
+}
+
+.artist{
+	height: 25px;
+	margin-top: 2%;
+}
